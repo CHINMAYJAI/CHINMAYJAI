@@ -6,7 +6,7 @@ A pasionate Developer from INDIA
 
 Languages known
 
-Python, HTML, CSS, C, Bootstrap
+Python(with numpy library), HTML, CSS(vanilla and Bootstrap), C
 
 Backend
 
