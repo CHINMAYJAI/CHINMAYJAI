@@ -62,9 +62,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CHINMAYJAI/CHINMAYJAI/output/snake.svg" alt="Snake animation" />
-
-###
