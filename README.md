@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Full Stack Web Developer<br>👯 I’m looking to collaborate on open source world<br>🌱 I’m currently learning DSA
+🔭 I’m a Full Stack Web JS Developer<br>👯 I’m looking to collaborate on open source world<br>🌱 I’m currently learning DSA
 
 
 ## 🌐 Socials:
